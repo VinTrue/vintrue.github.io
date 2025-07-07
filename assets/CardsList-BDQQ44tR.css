@@ -1,0 +1,1 @@
+.pagination button{cursor:pointer}.pagination li a{cursor:pointer;border-radius:var(--radius-10);background-color:var(--color-active);padding:6px 12px;font-weight:600}.pagination .selected{color:var(--color-text-active)}.pagination .previous{cursor:pointer}.pagination .next{cursor:pointer}
